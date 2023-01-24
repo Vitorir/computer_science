@@ -1,0 +1,57 @@
+MIT Introduction to Computer Science
+Harvard CS50 
+
+Objectives:
+Computational thinking
+Understand code
+Understand abilities and limits
+Map scientific problems into a computational frame
+
+Cronogram:
+2h of lectures per week, terça e quinta
+9h outside-of-class work; problem sets on python
+
+How to think like a computer scientist?
+- What is computation?
+Declarative		Imperative
+Statement of fact;	Description of how to do something;
+
+Imperative knowledge is defined by a sequence of specific instructions in order along the way tests are introduced and depending on their value I may change where I am in that sequence.
+
+
+Early computers had a piece of circuitry designed to do a specific computation.
+- Calculator: does arithmetic;
+- Atanasoff(1941): linear equations;
+- Turing Bombe: break code;
+
+Computation as a set of steps, and a circuit built on it;
+Machine that can take a recipe, description of a set of steps, reconfigure itself, emulate; thats the Interpreter.
+
+
+Program
+- The heart of the computer is the building of recipes on a sequence of primitive of instruction on a flow of control.
+- Given a fixed set of primitives, a good programmer can program anything.
+Turing Compatibility
+- With 6 primitives I can rule the world.
+
+
+Python
+- High vs Low Level
+- General or targeted
+- Interpreted or Compiled
+The interpreter, that thing inside the machine that controls the flow of going through instructions, operating directly on your code at run time.
+In the compiler, runs through an intermediary, catching bugs and making it more efficient.
+
+
+Syntax - What are the legal expressions of this language?
+Static semantics: what programs are meaninful; "My desk is Susan"
+Semantics: what is going to happen when I run it?
+Style: write in a way thats going to be easy for spotting errors and bugs;
+
+PYTHON
+Values: primitive data elements
+- numbers: 1,2,3; int, float
+- strings: 'abc'; type
+
+Operations
++ - / *

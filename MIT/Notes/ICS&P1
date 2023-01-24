@@ -1,0 +1,32 @@
+Aspectos regulatórios
+LGDP, regulações incidentes sobre a proteção de dados;
+sala de aula invertida;
+- juntar firewall com vpn;
+
+
+O que fazer, escopo, quais tecnologias, cronograma;
+Tema, Plano de projeto, tecnologias, avanços e dificuldades;
+Hackatoon / direito;
+
+> 6,0; 80 % frequência
+Seminários (50%); Projeto final (50%)
+
+# Introdução à Programação e Ciência da Computação - MIT
+1. CAPÍTULO 1
+- No curso será aprendido a habilidade de ler e escrever códigos.
+- Um computador faz duas, e apenas duas coisas: operam calculações e lembram de seus resultados. Geralmente na escala de um bilhão de calculações por segundo.
+- Pensamento computacional consiste no uso de "conhecimento imperativo", numa criação de receitas compostas de uma sequência de passos pra atingir um objetivo.
+- O coração do computador é o interpretador, que executa a computação sequencial de um conjunto de instruções chamado programa. O programa e os seus dados manipulados residem na memória, e é num local específico desta que o interpretador age com o uso de um ponteiro, executando as instruções, obedecendo ao controle de fluxo.
+- Nem todos os problemas tem soluções computacionais. Mas Turing demonstra que tudo que pode ser programado numa linguagem de programação, pode ser feito em todas as outras, se estas forem "Turing completas". As linguagens geralmente servem a diferentes propósitos, mas todas tem o mesmo poder computacional.
+- MATLAB é excelente lidando com vetores e matrizes, C, para escrever programas que controlam redes de dados, PHP para construir websites e Python por ser de propósito geral.
+- Toda linguagem possui um conjunto de a) construtos primitivos, b) uma sintaxe, c) uma semântica estática e d) uma semântica.
+- a) são, por analogia, as palavras, b) descreve que strings constituem sentenças bem elaboradas, c) define quais sentenças são significativas e d) o significado dessas sentenças.
+- CONSTRUTOS PRIMITIVOS, em python, são as literais(o número 3.2 e a string 'abc') e operadores infix(+ e /).
+- A SINTAXE define como os caracteres e símbolos devem ser formados. 3.2 + 3.2 é válido, porém a sequência 3.2 3.2, não é. Analogamente, o inglês não aceita sentenças do tipo "cat dog boy", por ser <noun> <noun> <noun>.
+- Static semantics é quando a sintaxe é correta, porém a sentença não é razoável, como 3.2 / 'abc'. 
+- Quando um programa se comporta de uma maneira que não intencionada, haverá erro semântico, e este é o mais perigoso de todos. Pode crashar, rodar infinitamente ou produzir uma resposta incorreta.
+
+CAPÍTULO 2
+I. Dimensões das linguagens de programação
+Alto e baixo nível: se programamos usando instruções e objetos de dados no nivel da máquina(niver 64 bits de dados de locação) ou operações mais abstratas(popar um menu na tela)
+Aplicação geral ou direcionada.

@@ -1,0 +1,20 @@
+# MIT - Intro to Programming and CS #2
+![Code Estructures](Introduction)
+1. Data types, variables and operators;
+2. Branching, Conditionals and Iteration;
+# Overview
+**I/O, Assignment, Conditionals and Loop Constructs (A set of primitives to program everything**
+1. Decomposition: breaking code into modules
+2. Abstraction: a contract that is referred by a name and supress its operation details
+I. [Functions]]: manufacturing patterns of computation into new primitives by breaking code into modules and supressing its details;
+- def name(x):
+- x is the placeholder
+- if statements
+- loop constructs
+- return procedures
+a) Invoking a function by passing values in the parameters; b) binds x to 16, locally, inside the confines of the environment of the procedure
+- local bindings don't affect global bindings, so there are multiple scopes, environments
+# Problem 1: Enumerate and Check
+- brute-force algorithm
+- range: collection of integers from 0 up to 1 - the last value
+

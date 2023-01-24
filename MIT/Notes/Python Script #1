@@ -1,0 +1,25 @@
+# Branching 
+Program I
+Conditionals
+if, elif, else
+
+Operators
++, /, -, *, % 
+
+Boolean combinations
+- and, or, not
+
+Types
+Strings são sequence types
+x = s.next(); --> em Java
+for (int i = 0; i < x.length; i++)
+len('abc') == 3
+
+x = 3
+ans = 0
+itersLeft = x
+while(itersLeft != 0):
+	ans = ans + x
+	itersLeft -= 1
+print str(x) + '*' + str(x) + ' = ' + str(ans)
+
